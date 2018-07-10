@@ -1,3 +1,3 @@
 Front                      |  Reversible Back of Panel
 :-------------------------:|:-------------------------:
-![](img/panel.png =500x "uO_c remix panel front")  |  ![](img/panel-reverse.png =500x "uO_c remix panel back")
+<img src="img/panel.png" alt="drawing" height="400px"/> |  <img src="img/panel-reverse.png" alt="drawing" height="400px"/>
