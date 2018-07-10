@@ -10,6 +10,7 @@ Front                      |  Reversible Back of Panel
 :-------------------------:|:-------------------------:
 <img src="img/panel.png" alt="drawing" height="400px"/> |  <img src="img/panel-reverse.png" alt="drawing" height="400px"/>
 
-Files are my own design based on work by <a href="https://github.com/jakplugg/">@jakplugg</a> at <a href="https://github.com/jakplugg/uO_C">github.com/jakplugg/uO_C</a> and are released under the <a href="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International</a> license.
+Files are my own design based on work by <a href="https://github.com/jakplugg/">@jakplugg</a> at <a href="https://github.com/jakplugg/uO_C">github.com/jakplugg/uO_C</a>.
 
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
 
